@@ -30,7 +30,13 @@ public class main
 
     }
 
-    //class2
-    class student
+    //class2 --- for every single student
+    class student{
+        int rno;
+        string names;
+        float marks;
+    }
 
-   } 
+    //How to create objects?
+
+
